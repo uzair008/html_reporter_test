@@ -47,6 +47,7 @@
     "karma-jasmine": "^1.1.0",
     "karma-mocha-reporter": "^2.2.4",
     "karma-remap-istanbul": "^0.6.0",
+    "karma-phantomjs-launcher": "^1.0.4",
     "ts-node": "^3.3.0",
     "tslint": "^5.7.0",
     "tslint-eslint-rules": "^4.1.1",
