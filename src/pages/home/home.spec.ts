@@ -58,9 +58,9 @@ describe('HomePage Component', () => {
  
     it('can set customData to a new value', () => {
  
-        comp.changeData('My Data');
+        comp.changeData('My Custom Data');
         fixture.detectChanges();
-        expect(comp['customData']).toEqual('My Data');
+        expect(comp['customData']).toEqual('My Custom Data');
        
     });
  
